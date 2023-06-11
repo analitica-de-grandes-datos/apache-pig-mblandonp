@@ -3,7 +3,7 @@ Pregunta
 ===========================================================================
 
 Ordene el archivo `data.tsv`  por letra y valor (3ra columna). Escriba el
-resultado separado por comas.
+resultado separado por coma.
 
 Escriba el resultado a la carpeta `output` del directorio actual. Para la 
 evaluación, pig sera eejcutado ejecutado en modo local:

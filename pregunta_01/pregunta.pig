@@ -3,7 +3,7 @@ Pregunta
 ===========================================================================
 
 Para el archivo `data.tsv` compute la cantidad de registros por letra.
-Almacene los resultados separados por comas. 
+Almacene los resultados separados por coma. 
 
 Escriba el resultado a la carpeta `output` del directorio actual. Para la 
 evaluación, pig sera eejcutado ejecutado en modo local:
